@@ -35,8 +35,8 @@ def get_track_details(track_id, token):
     return image_url
 
 
-client_id = '9ea47dc74a964393a1c2b08de979b7ba'
-client_secret = '28335fc74a084f3789dca044325837e5'
+client_id = 'UR CLIENT ID'
+client_secret = 'UR CLIENT SECRET'
 
 
 access_token = get_spotify_token(client_id, client_secret)
